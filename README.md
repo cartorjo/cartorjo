@@ -1,6 +1,6 @@
 ### Who am I?
 
-I'm an award-winning software engineer, consultant, and entrepreneur; specialized in architecting, writing and scaling large sites. 
+I'm an award-winning software engineer, consultant, and entrepreneur; specialized in architecting, writing, scaling and investing in digital businesses.
 
 With:
 
