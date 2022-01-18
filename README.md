@@ -7,15 +7,16 @@ With:
 - +10 yrs. of exp. in software engineering, incl. Groupon, KAYAK, Scout24, and Hays
 - +5 yrs. of exp. in consultancy, incl. corporations, government entities and other public institutions
 - +5 yrs. investing in high-value domains
-- +3 yrs. investing in tokens 
 
-As an entrepreneur, I've built 3 companies from scratch.
+As an entrepreneur, I've built 5 companies from scratch.
 
 1. In 2010, MLAB
 2. In 2015, GURMEO GmbH
 3. In 2019, Osuna UG
+4. In 2021, logi Venture Capital GmbH
+5. In 2022, Find a pharmacy SL
 
-#### Philosophy (Code Simplicity):
+#### Philosophy:
 > “Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art.” 
 > — Frédéric Chopin
 
