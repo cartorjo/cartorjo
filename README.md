@@ -8,9 +8,9 @@ With:
 - +5 yrs. of exp. in consultancy, incl. corporations, government entities and other public institutions
 - +5 yrs. investing in high-value domains
 
-As an entrepreneur, I've built 5 companies from scratch.
+As an entrepreneur, I've built 6 companies from scratch.
 
-1. In 2010, MLAB (Exit)
+1. In 2010, MLAB
 2. In 2015, GURMEO GmbH
 3. In 2019, Osuna UG
 4. In 2021, logi Venture Capital GmbH
