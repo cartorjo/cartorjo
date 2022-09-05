@@ -10,11 +10,12 @@ With:
 
 As an entrepreneur, I've built 5 companies from scratch.
 
-1. In 2010, MLAB
+1. In 2010, MLAB (Exit)
 2. In 2015, GURMEO GmbH
 3. In 2019, Osuna UG
 4. In 2021, logi Venture Capital GmbH
 5. In 2022, Find a pharmacy SL
+6. In 2022, Finda Rx SL
 
 #### Philosophy:
 > “Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art.” 
